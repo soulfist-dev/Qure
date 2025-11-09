@@ -1,4 +1,3 @@
-*
 *.*.xboxlive.com
 +.126.net
 +.3gppnetwork.org
@@ -53,7 +52,9 @@
 +.wowsgame.cn
 +.xiami.com
 +.y.qq.com
-+.msftconnecttest.com
+*c-msedge.net
+edge.microsoft.com
+29-courier.push.apple.com
 adguardteam.github.io
 adrules.top
 amobile.music.tc.qq.com
@@ -67,6 +68,7 @@ heartbeat.belkin.com
 isure.stream.qqmusic.qq.com
 joox.com
 lens.l.google.com
+csp.withgoogle.com
 local.adguard.org
 localhost.*.weixin.qq.com
 localhost.ptlogin2.qq.com
